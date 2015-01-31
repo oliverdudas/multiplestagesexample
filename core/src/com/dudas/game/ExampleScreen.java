@@ -69,7 +69,7 @@ public class ExampleScreen extends AbstractGameScreen {
     public void resize(int width, int height) {
         resizeMainStage(width, height);
 
-//        resizeGameStage(width, height);
+//        resizeGameStage(width, height); //TODO: kokotinaaaa
 
     }
 
