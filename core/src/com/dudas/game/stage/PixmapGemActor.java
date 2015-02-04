@@ -1,4 +1,4 @@
-package com.dudas.game;
+package com.dudas.game.stage;
 
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
